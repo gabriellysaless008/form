@@ -5,7 +5,7 @@ function logar(){
     const senha = document.getElementById("senha").value;
     console.log (senha);
 
-    if (senha == "123"){
+    if (senha == "123" && email =="gabrielly.sales@gmail.com"){
         alert ("Oi meu lindo professor Noberto");
     }
 
